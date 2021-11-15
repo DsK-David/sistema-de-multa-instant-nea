@@ -6,7 +6,7 @@ function verificar(){
         if(vel.value > 60){
                 resu.innerHTML="Você acabou de ser multado por ecesso de velocidade ⛔"
         }
-        if(vel.value <= 60,vel.value > 0){
+        if(vel.value <= 60){
           resu.innerHTML=" andou no limite de velocidade use sempre o sinto de segurança"
         }
         if(vel.value==""){
